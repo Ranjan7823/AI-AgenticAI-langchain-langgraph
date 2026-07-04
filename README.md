@@ -17,3 +17,8 @@ from langgraph.graph import StateGraph
 
 -- 1_bmi_workflow image
 <img width="1901" height="1015" alt="image" src="https://github.com/user-attachments/assets/06e5dc26-b037-42c9-adfa-9c1fea4c9675" />
+
+
+
+Added New node for BMI Labale 
+<img width="225" height="455" alt="image" src="https://github.com/user-attachments/assets/f5198b79-8f93-4d71-b8e6-62df4305811c" />
