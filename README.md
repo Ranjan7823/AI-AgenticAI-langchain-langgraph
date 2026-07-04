@@ -27,3 +27,5 @@ Added New node for BMI Labale
 2nd SImple_LLM_Workflow 
 <img width="639" height="522" alt="image" src="https://github.com/user-attachments/assets/b9a9e34a-5f82-4d25-a919-f4e6572d407c" />
 
+3- 3_promt_chaining.ipynb
+<img width="814" height="548" alt="image" src="https://github.com/user-attachments/assets/81427b57-779b-425b-aefd-9aa916fb7a21" />
