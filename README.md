@@ -22,3 +22,8 @@ from langgraph.graph import StateGraph
 
 Added New node for BMI Labale 
 <img width="225" height="455" alt="image" src="https://github.com/user-attachments/assets/f5198b79-8f93-4d71-b8e6-62df4305811c" />
+
+
+2nd SImple_LLM_Workflow 
+<img width="639" height="522" alt="image" src="https://github.com/user-attachments/assets/b9a9e34a-5f82-4d25-a919-f4e6572d407c" />
+
