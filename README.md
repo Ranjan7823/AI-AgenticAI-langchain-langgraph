@@ -29,3 +29,9 @@ Added New node for BMI Labale
 
 3- 3_promt_chaining.ipynb
 <img width="814" height="548" alt="image" src="https://github.com/user-attachments/assets/81427b57-779b-425b-aefd-9aa916fb7a21" />
+
+
+4_Batsman work flow - parallel processing 
+
+<img width="872" height="804" alt="image" src="https://github.com/user-attachments/assets/a176af23-40d9-4523-9ed8-613a0fa61ef6" />
+<img width="1524" height="839" alt="image" src="https://github.com/user-attachments/assets/d03c949d-5f8c-4b20-b0a3-3b635763dbd2" />
