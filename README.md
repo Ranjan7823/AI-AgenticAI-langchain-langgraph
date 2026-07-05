@@ -1,4 +1,8 @@
 AI-AgenticAI-LangGraph-Langchain
+
+LangGraph is a framework built on top of LangChain for creating stateful AI agents using graph-based workflows. It allows developers to define nodes, edges, and conditional paths so agents can make decisions, use tools, maintain state, and execute complex multi-step tasks. LangGraph is commonly used for AI assistants, customer support agents, RAG systems, code review agents, DevOps automation, and other Agentic AI applications where linear chains are not sufficient. 
+• LangChain = Create AI applications and chains.
+• LangGraph = Create AI agents that can think, decide, loop, remember state, and execute complex workflows.
 BMI- Calculator
 
 python -m venv myenv
