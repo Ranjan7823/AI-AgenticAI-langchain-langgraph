@@ -1,4 +1,8 @@
 AI-AgenticAI-LangGraph-Langchain
+
+LangGraph is a framework built on top of LangChain for creating stateful AI agents using graph-based workflows. It allows developers to define nodes, edges, and conditional paths so agents can make decisions, use tools, maintain state, and execute complex multi-step tasks. LangGraph is commonly used for AI assistants, customer support agents, RAG systems, code review agents, DevOps automation, and other Agentic AI applications where linear chains are not sufficient. 
+• LangChain = Create AI applications and chains.
+• LangGraph = Create AI agents that can think, decide, loop, remember state, and execute complex workflows.
 BMI- Calculator
 
 python -m venv myenv
@@ -35,3 +39,15 @@ Added New node for BMI Labale
 
 <img width="872" height="804" alt="image" src="https://github.com/user-attachments/assets/a176af23-40d9-4523-9ed8-613a0fa61ef6" />
 <img width="1524" height="839" alt="image" src="https://github.com/user-attachments/assets/d03c949d-5f8c-4b20-b0a3-3b635763dbd2" />
+
+5_upsc_essay_workflow.ipynb
+Essay Evaluation  Feedback and Avg calculator 
+<img width="1533" height="949" alt="image" src="https://github.com/user-attachments/assets/e6ba9ce1-cdbe-453e-8ff2-2410207c6e53" />
+
+<img width="1373" height="681" alt="image" src="https://github.com/user-attachments/assets/7c4d6a48-76ec-42d8-8443-d92bea5f39b9" />
+
+<img width="786" height="469" alt="image" src="https://github.com/user-attachments/assets/267b20f1-e344-400d-9a32-b4afec956e39" />
+
+
+6- Review and feedback reply workflow - conditional 
+<img width="1023" height="562" alt="image" src="https://github.com/user-attachments/assets/fa498284-f5fe-4bf8-be68-04526366d8c4" />
