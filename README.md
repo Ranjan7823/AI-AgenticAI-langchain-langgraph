@@ -47,3 +47,7 @@ Essay Evaluation  Feedback and Avg calculator
 <img width="1373" height="681" alt="image" src="https://github.com/user-attachments/assets/7c4d6a48-76ec-42d8-8443-d92bea5f39b9" />
 
 <img width="786" height="469" alt="image" src="https://github.com/user-attachments/assets/267b20f1-e344-400d-9a32-b4afec956e39" />
+
+
+6- Review and feedback reply workflow - conditional 
+<img width="1023" height="562" alt="image" src="https://github.com/user-attachments/assets/fa498284-f5fe-4bf8-be68-04526366d8c4" />
